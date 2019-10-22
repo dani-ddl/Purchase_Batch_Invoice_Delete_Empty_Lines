@@ -36,7 +36,6 @@
     ],
     'license': 'AGPL-3',
     'data': [
-        'models/account_invoice.py',
     ],
     'demo': [
     ],
